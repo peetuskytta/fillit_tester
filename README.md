@@ -20,8 +20,6 @@ After exiting the program you can check errors or memoryleaks in `results/`.
 
 <img width="643" alt="Screen Shot 2022-03-10 at 17 13 48" src="https://user-images.githubusercontent.com/77061872/157692225-c6ea7a6e-9c3e-4b11-b727-d40fe23149aa.png">
 
-<img width="722" alt="Screen Shot 2022-03-10 at 17 14 18" src="https://user-images.githubusercontent.com/77061872/157692278-1bf8e5cb-77c5-40a7-9bb2-4751a0c07013.png">
-
 ## Bugs? Suggestions?
 
 Please inform about issues/bugs. Always open for suggestions of new ideas and tests.
