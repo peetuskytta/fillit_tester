@@ -28,4 +28,8 @@ Please inform about issues/bugs. Always open for suggestions of new ideas and te
 
 - [ ] Adding diff to speed testing maps
 - [ ] Documenting the `run_fillit_tester.sh` script for better understanding on what's going on.
-- [ ] Adding background color
+- [ ] Colrs?
+
+## fillit_tester
+
+I have created a tester for this project: [fillit_tester](https://github.com/peetuskytta/fillit_tester.git)
