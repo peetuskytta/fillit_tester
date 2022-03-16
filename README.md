@@ -20,12 +20,13 @@ After exiting the program you can check errors or memoryleaks in `results/`.
 
 <img width="643" alt="Screen Shot 2022-03-10 at 17 13 48" src="https://user-images.githubusercontent.com/77061872/157692225-c6ea7a6e-9c3e-4b11-b727-d40fe23149aa.png">
 
-## Bugs? Suggestions?
+### Bugs? Suggestions?
 
 Please inform about issues/bugs. Always open for suggestions of new ideas and tests.
 
-## Features under thought process:
+### Future Features?:
 
-- [ ] Adding diff to speed testing maps
+- [ ] diff to speed testing maps
 - [ ] Documenting the `run_fillit_tester.sh` script for better understanding on what's going on.
-- [ ] Colrs?
+- [ ] Option to run the program in less/more information mode (e.g: show each valid map expected and test result)
+- [ ] Add Norm checking
