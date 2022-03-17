@@ -30,3 +30,5 @@ Please inform about issues/bugs. Always open for suggestions of new ideas and te
 - [ ] Documenting the `run_fillit_tester.sh` script for better understanding on what's going on.
 - [ ] Option to run the program in less/more information mode (e.g: show each valid map expected and test result)
 - [ ] Add Norm checking
+- [ ] Add author checker
+- [ ] Create a tetrimino generator
