@@ -59,9 +59,9 @@ check_valid()
 		DIFF=$(diff res.txt output/valid_$NR.output)
 
 		if [ "$DIFF" = "" ]; then
-			printf "|${COL_G}OK${COL_D}|"
+			printf "|${COL_G}OK${COL_D}|\n"
 			#printf "\n$NR\n"
-			#cat res.txt
+			cat res.txt
 			#cat output/valid_$NR.output
 		else
 			printf "|$COL_R!mistake!$COL_D|"
