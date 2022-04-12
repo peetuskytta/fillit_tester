@@ -15,8 +15,9 @@ Run the tester **in the `fillit_tester`-folder** with the following command:
 `./run_fillit_tester.sh`
 
 IMPORTANT! 
-- Recommended to use terminal to run this tester.
-- The test files were written with Vim (this is important for VSC users, `\n` needed.)
+- It is recommended to use terminal to run this tester.
+- Make sure you have compiled your program before running the script.
+- The test files were written with Vim (this is important for VSC users, `\n` might be needed.)
 
 <img width="300" alt="Screen Shot 2022-03-10 at 17 11 27" src="https://user-images.githubusercontent.com/77061872/157691714-c20ccb62-afd7-47c6-9d02-1bbd0cf3b352.png">
 
