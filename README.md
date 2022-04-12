@@ -35,4 +35,5 @@ Please inform about issues/bugs. Always open for suggestions of new ideas and te
 - [ ] Option to run the program in less/more information mode (e.g: show each valid map expected and test result)
 - [ ] Add Norm checking
 - [ ] Add author checker
+- [ ] Add over 27 piece memory leak test
 - [ ] Create a tetrimino generator
