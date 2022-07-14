@@ -4,7 +4,7 @@ This is a tester for the 42 School's fillit project.
 
 ## Where to start?
 
-Run this command in your fillit folder:
+Run this command **in** your fillit project folder:
 
 ```git clone https://github.com/peetuskytta/fillit_tester.git```
 
